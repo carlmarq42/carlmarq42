@@ -4,7 +4,7 @@
 - <b>Virtualization Environment Setup</b>
   - [Oracle VM Virtualbox -- Kali](https://www.google.com/)
 - <b>Configured & Deployed SIEM</b>
-  - [Azure Sentinel SIEM Setup](https://www.google.com/) 
+  - [Azure Sentinel SIEM Setup](https://github.com/carlmarq42/Azure-Sentinel-Project/blob/main/README.md) 
 - <b>Analyze Network Traffic</b>
   - [Wireshark](https://www.google.com/)
 - <b> Setup Virtual Active Directory Environment </b>
