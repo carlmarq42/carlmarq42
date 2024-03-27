@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Virtualization Environment Setup</b>
-  - [Oracle VM Virtualbox -- Kali](https://www.google.com/)
+  - [Oracle VM Virtualbox -- Kali](https://github.com/carlmarq42/Oracle-VM-/blob/main/README.md)
 - <b>Configured & Deployed SIEM</b>
   - [Azure Sentinel SIEM Setup](https://github.com/carlmarq42/Azure-Sentinel-Project/blob/main/README.md) 
 - <b>Analyze Network Traffic</b>
